@@ -1,0 +1,89 @@
+# number_of_header_lines: 55
+# comment:  
+# comment:  ************ USE OF GML DATA ****************
+# comment:  
+# comment: These data are made freely available to the public and the scientific
+# comment: community in the belief that their wide dissemination will lead to
+# comment: greater understanding and new scientific insights. To ensure that GML
+# comment: receives fair credit for their work please include relevant citation
+# comment: text in publications. We encourage users to contact the data providers,
+# comment: who can provide detailed information about the measurements and
+# comment: scientific insight.  In cases where the data are central to a
+# comment: publication, coauthorship for data providers may be appropriate.
+# comment: 
+# comment: 
+# comment: Please see accompanying README file, if available, for citation text.
+# comment:  
+# comment: Every effort is made to produce the most accurate and precise
+# comment: measurements possible.  However, we reserve the right to make
+# comment: corrections to the data based on recalibration of standard gases
+# comment: or for other reasons deemed scientifically justified.
+# comment: 
+# comment: We are not responsible for results and conclusions based on use
+# comment: of these data without regard to this warning.
+# comment: 
+# contact_parameter: CO2 CCGG (Individual Flasks)
+# contact_name: Xin Lan
+# contact_telephone: (999) 999-9999
+# contact_email: xin.lan@noaa.gov
+# comment: 
+# comment:  ************ COLLABORATORS ***************
+# comment: 
+# comment: NOAA thanks the following collaborators without
+# comment: whom these measurements would not be possible.
+# comment: 
+# collaborator_name: Instituto de Pesquisas Energeticas e Nucleares,
+# collaborator_name: Centro de Quimica e Meio Ambiente, Laboratorio
+# collaborator_name: de Quimica Atmosferica [IPEN-CQMA]
+# comment: 
+# comment:  ************ RECIPROCITY AGREEMENT ***************
+# comment: 
+# comment:
+# comment:  ************ DATA DESCRIPTION ***************
+# comment:
+# description_site-code: abp
+# description_project-abbr: ccg_surface
+# description_strategy-abbr: flask
+# description_analysis-constraints: flag:..%
+# description_creation-time: 2025-08-15 10:14:58
+# comment:
+# comment:  ************ DATA DOCUMENTATION ***************
+# comment:
+# comment: Please refer to the species-specific README file in the
+# comment: appropriate directory folder at https://gml.noaa.gov/aftp/data/trace_gases/.
+# comment:
+# data_fields: site year month value
+ABP 2006 10   380.91
+ABP 2006 11   381.02
+ABP 2006 12   381.12
+ABP 2007  1   381.23
+ABP 2007  2   381.29
+ABP 2007  3   381.20
+ABP 2007  4   381.09
+ABP 2007  5   381.36
+ABP 2007  6   382.03
+ABP 2007  7   382.47
+ABP 2007  8   382.41
+ABP 2007  9   382.56
+ABP 2008  3   383.25
+ABP 2008  4   382.86
+ABP 2008  5   383.05
+ABP 2008  6   384.03
+ABP 2008  7   384.54
+ABP 2008  8   384.41
+ABP 2008  9   384.98
+ABP 2008 10   385.69
+ABP 2008 11   385.87
+ABP 2008 12   385.79
+ABP 2009  1   385.07
+ABP 2009  2   385.49
+ABP 2009  3   386.40
+ABP 2009  4   385.42
+ABP 2009  5   384.62
+ABP 2009  6   385.39
+ABP 2009  7   385.88
+ABP 2009  8   386.28
+ABP 2009  9   386.39
+ABP 2009 10   386.37
+ABP 2009 11   386.80
+ABP 2009 12   387.01
